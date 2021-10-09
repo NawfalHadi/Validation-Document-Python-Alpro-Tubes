@@ -1,0 +1,14 @@
+1,Fisika
+2,Matematika
+3,Teknik Mesin
+4,Teknik Elektro
+5,Teknik Kimia
+6,Teknik Material dan Metalurgi
+7,Teknik Sipil
+8,Perencanaan Wilayah dan Kota
+9,Teknik Perkapalan
+10,Sistem Informasi
+11,Informatika
+12,Teknik Industri
+13,Teknik Lingkungan
+14,Teknik Kelautan

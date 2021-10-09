@@ -1,0 +1,1 @@
+Nim yang anda masukkan tidak valid atau tidak ada di database, inputkan lagi
